@@ -1,4 +1,3 @@
-
 name: Build and Sign GanApp APK
 
 on:
@@ -35,4 +34,3 @@ jobs:
         with:
           name: GanAppPro-APK
           path: app/build/outputs/apk/release/app-release.apk
-
