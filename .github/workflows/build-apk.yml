@@ -36,4 +36,3 @@ jobs:
           name: GanAppPro-APK
           path: app/build/outputs/apk/release/app-release.apk
 
-Fix: usar upload-artifact v4
