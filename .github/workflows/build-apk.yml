@@ -34,3 +34,4 @@ jobs:
         with:
           name: GanAppPro-APK
           path: app/build/outputs/apk/release/app-release.apk
+
